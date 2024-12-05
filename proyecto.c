@@ -1,5 +1,6 @@
-// de error ingresado por el usuario, se encuentra el subdominio en donde la diferencia entre ambas
-// funciones no supera este porcentaje de error.
+// El presente programa tiene como funcion obtener coeficientes de dos funciones cuadraticas y un porcentaje
+// de error ingresado por el usuario, y que a traves de esto se encuentra el subdominio en donde la diferencia 
+// entre ambas funciones no supera este porcentaje de error ingresado.
 
 // Realizado por Manuel Alejandro Otarola Madrigal - C05740.
 
