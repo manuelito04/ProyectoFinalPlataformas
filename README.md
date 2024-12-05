@@ -1,1 +1,1 @@
-Hola
+Este es un repositorio el cual posee el proyecto final de Programación Bajo Plataformas Abiertas - IE0117 realizado por Manuel Otárola Madrigal - C05740. El programa recibe los coeficientes de dos funciones cuadráticas y un porcentaje de error, y encuentra un subdominio donde la diferencia entre ambas funciones no supera este porcentaje introducido.
